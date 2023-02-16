@@ -1,3 +1,5 @@
+# To run project container you shoud clone this project in your local machine and should also have docker in your local machine. After that you can run `docker compose up` command to run react project in docker container.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
